@@ -1,6 +1,6 @@
 # A PHP docker image for CircleCI 2.0
 
-## circleci@25dc7937fe70:/$ php -v
+## $ php -v
 ```
 PHP 7.1.9 (cli) (built: Sep  8 2017 02:43:40) ( NTS )
 Copyright (c) 1997-2017 The PHP Group
@@ -54,7 +54,7 @@ Xdebug
 Zend OPcache
 ```
 
-## circleci@25dc7937fe70:/$ composer --version
+## $ composer --version
 ```
 Composer version 1.5.1 2017-08-09 16:07:22
 ```
